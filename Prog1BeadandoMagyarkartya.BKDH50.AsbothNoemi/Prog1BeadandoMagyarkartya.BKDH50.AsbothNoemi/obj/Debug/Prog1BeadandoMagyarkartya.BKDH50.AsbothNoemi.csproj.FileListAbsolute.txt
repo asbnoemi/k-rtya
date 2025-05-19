@@ -1,0 +1,11 @@
+C:\Users\asbot\source\repos\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\obj\Debug\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi.csproj.AssemblyReference.cache
+C:\Users\asbot\source\repos\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\obj\Debug\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\asbot\source\repos\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\obj\Debug\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi.Form1.resources
+C:\Users\asbot\source\repos\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\obj\Debug\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi.Properties.Resources.resources
+C:\Users\asbot\source\repos\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\obj\Debug\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi.csproj.GenerateResource.cache
+C:\Users\asbot\source\repos\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\obj\Debug\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi.csproj.CoreCompileInputs.cache
+C:\Users\asbot\source\repos\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\bin\Debug\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi.exe.config
+C:\Users\asbot\source\repos\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\bin\Debug\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi.exe
+C:\Users\asbot\source\repos\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\bin\Debug\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi.pdb
+C:\Users\asbot\source\repos\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\obj\Debug\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi.exe
+C:\Users\asbot\source\repos\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi\obj\Debug\Prog1BeadandoMagyarkartya.BKDH50.AsbothNoemi.pdb
